@@ -237,9 +237,8 @@ pip install -r requirements.txt
 ```
 
 ### Download Dataset
-```bash
+
 https://drive.google.com/drive/folders/1UX2XfoaXlW0ixCYXJvE59SdrE9zNEvb6
-```
 
 ---
 
