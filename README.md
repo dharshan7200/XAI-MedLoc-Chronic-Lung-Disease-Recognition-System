@@ -394,17 +394,6 @@ This project is based on research in medical imaging and explainable AI:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 ## 👥 Authors
 
@@ -440,12 +429,5 @@ Chennai, India
 
 ---
 
-## 📧 Contact
-
-For questions or collaborations, please open an issue or reach out via email.
-
----
-
-**⭐ Star this repository if you find it helpful!**
 
 
