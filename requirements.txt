@@ -1,0 +1,22 @@
+# Core Deep Learning (CPU version recommended for Windows)
+# Install via: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+torchaudio
+
+# Data Handling
+pandas
+numpy
+Pillow
+
+# Image Processing
+scikit-image
+opencv-python-headless
+
+# Visualization & XAI
+matplotlib
+lime
+
+# Utilities
+tqdm
+scikit-learn

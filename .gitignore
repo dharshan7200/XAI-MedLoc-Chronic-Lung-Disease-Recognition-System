@@ -1,0 +1,6 @@
+.venv/
+images-224/
+__pycache__/
+*.pyc
+*.pyo
+.env
