@@ -238,9 +238,7 @@ pip install -r requirements.txt
 
 ### Download Dataset
 ```bash
-# Download NIH Chest X-ray dataset
-# Place images in 'images-224' folder
-# Place Data_Entry_2017.csv in root directory
+https://drive.google.com/drive/folders/1UX2XfoaXlW0ixCYXJvE59SdrE9zNEvb6
 ```
 
 ---
