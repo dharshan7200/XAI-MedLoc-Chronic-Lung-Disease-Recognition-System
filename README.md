@@ -400,19 +400,19 @@ This project is based on research in medical imaging and explainable AI:
 Dept. of Artificial Intelligence and Machine Learning  
 Saveetha Engineering College  
 Chennai, India  
-📧 priyadivyapriyadivya225@email.com
+📧 priyadivyapriyadivya225@gmail.com
 
 **Dharshan D**  
 Dept. of Artificial Intelligence and Data Science  
 Saveetha Engineering College  
 Chennai, India  
-📧 dharshandhiren@email.com
+📧 dharshandhiren@gmail.com
 
 **Sanjai L**  
 Dept. of Artificial Intelligence and Data Science  
 Saveetha Engineering College  
 Chennai, India  
-📧 sanjaiofficial@email.com
+📧 sanjaiofficial@gmail.com
 
 
 
