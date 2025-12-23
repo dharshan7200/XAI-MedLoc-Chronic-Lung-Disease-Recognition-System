@@ -1,1 +1,1 @@
-# XAI-MedLoc-Chronic-Lung-Disease-Recognition-System
+# XAI-MedLoc: An Explainable Deep Learning Framework for Disease Localization – Chronic Lung Disease Recognition System
