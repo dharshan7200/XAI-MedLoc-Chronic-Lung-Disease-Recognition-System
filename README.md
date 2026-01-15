@@ -418,7 +418,7 @@ Chennai, India
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - NIH Clinical Center for the chest X-ray dataset
 - PyTorch team for the deep learning framework
