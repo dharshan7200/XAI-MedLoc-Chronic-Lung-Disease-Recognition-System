@@ -412,7 +412,7 @@ Chennai, India
 Dept. of Artificial Intelligence and Data Science  
 Saveetha Engineering College  
 Chennai, India  
-📧 sanjaiofficial@gmail.com
+📧 sanjaioff@gmail.com
 
 
 
